@@ -18,6 +18,10 @@ three:     four
 seventeen: five
 ```
 
+## How to use
+
+Pass a string to align(str). This is important! Read in the YAML as a string, DON'T PARSE IT.
+
 ## Credits
 
 Translated to Python from https://github.com/jonschlinkert/align-yaml
