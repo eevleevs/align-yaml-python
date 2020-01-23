@@ -1,6 +1,6 @@
 import re
 
-def align(str, pad=0):
+def align_yaml(str, pad=0):
     props = re.findall(r'^\s*[\S]+:', str, re.MULTILINE)
     longest = max([len(i) for i in props]) + pad
     return ''.join([i+'\n' for i in map(lambda str:
