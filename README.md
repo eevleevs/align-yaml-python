@@ -18,4 +18,6 @@ three:     four
 seventeen: five
 ```
 
-This code is a translation to Python of https://github.com/jonschlinkert/align-yaml
+# Credits
+
+Translated to Python from https://github.com/jonschlinkert/align-yaml
