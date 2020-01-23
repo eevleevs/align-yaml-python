@@ -18,6 +18,6 @@ three:     four
 seventeen: five
 ```
 
-# Credits
+## Credits
 
 Translated to Python from https://github.com/jonschlinkert/align-yaml
