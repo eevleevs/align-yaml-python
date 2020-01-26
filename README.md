@@ -18,6 +18,14 @@ three:     four
 seventeen: five
 ```
 
+or this:
+
+```yaml
+one      : two
+three    : four
+seventeen: five
+```
+
 ## How to use
 
 Pass a string to align(str). This is important! Read in the YAML as a string, DON'T PARSE IT.
